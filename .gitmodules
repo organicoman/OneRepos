@@ -1,0 +1,7 @@
+[submodule "left"]
+	path = reposOne
+	url = https://github.com/organicoman/reposOne.git
+[submodule "right"]
+	path = reposTwo
+	url = https://github.com/organicoman/reposTwo.git
+	branch = reposTwoV2
